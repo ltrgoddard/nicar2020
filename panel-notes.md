@@ -28,8 +28,8 @@ Does OCCRP have relevant structured data or documents in [Aleph](https://aleph.o
 
 3. Work out what's missing and go to the source. Key things to search for:
 
-    a. Corporate registry
-    b. Land registry or cadastre
-    c. Sources for specific industries, e.g. a cadastre for mining licenses
+    - Corporate registry
+    - Land registry or cadastre
+    - Sources for specific industries, e.g. a cadastre for mining licenses
 
    Try to work out the names for each of these in the local language to speed up your Googling.
