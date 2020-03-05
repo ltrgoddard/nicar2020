@@ -14,11 +14,13 @@
 ### 10:15-11:15
 
 - FOI negotiation (Bissonet, 3rd floor)
+- Immigration data (Acadia, 3rd floor)
 
 ### 11:30-12:30
 
 - Datasette (Studio 6, 2nd floor)
 - OpenRefine (Studio 10, 2nd floor)
+- Coronavirus (Galerie 2, 2nd floor)
 
 ### 14:15-15:15
 
