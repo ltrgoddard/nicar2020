@@ -25,6 +25,7 @@
 ### 14:15-15:15
 
 - DNS search (Studio 1, 2nd floor)
+- Finding international connections (Galerie 6, 2nd floor)
 
 ### 15:30-16:30
 
@@ -33,6 +34,7 @@
 ### 16:45-17:45
 
 - The wrong things we all do (Bissonet, 3rd floor)
+- Data journalism in the browser (Galerie 6, 2nd floor)
 
 ### 18:00-19:15
 
