@@ -56,6 +56,7 @@
 
 ### 11:30-12:30
 
+- DNS search (Studio 4, 2nd floor)
 - Data on the wildfire beat (Galerie 2, 2nd floor)
 
 ### 14:15-15:15
@@ -94,7 +95,6 @@
 
 ### 11:30-12:30
 
-- DNS search (Studio 4, 2nd floor)
 - Statistical world view (Galerie 6, 2nd floor)
 - Art of the interview (Galerie 2, 2nd floor)
 
