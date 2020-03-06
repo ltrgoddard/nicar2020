@@ -52,6 +52,7 @@
 ### 10:15-11:14
 
 - Interviewing your data (Bissonet, 3rd floor)
+- Data blitz (Galerie 3, 2nd floor)
 
 ### 11:30-12:30
 
